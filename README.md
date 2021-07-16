@@ -1,6 +1,4 @@
-
 ## File Permission commands
-
 
 <table>
 
@@ -20,7 +18,7 @@
 
 <tr>
 
-<td>`ls-l`</td>
+<td>ls-l</td>
 
 <td>to show file type and access permission</td>
 
@@ -28,7 +26,7 @@
 
 <tr>
 
-<td>`r`</td>
+<td>r</td>
 
 <td>read permission</td>
 
@@ -36,7 +34,7 @@
 
 <tr>
 
-<td>`w`</td>
+<td>w</td>
 
 <td>write permission</td>
 
@@ -44,7 +42,7 @@
 
 <tr>
 
-<td>`x`</td>
+<td>x</td>
 
 <td>execute permission</td>
 
@@ -52,7 +50,7 @@
 
 <tr>
 
-<td>`-=`</td>
+<td>-=</td>
 
 <td>no permission</td>
 
@@ -60,7 +58,7 @@
 
 <tr>
 
-<td>`Chown user`</td>
+<td>Chown user</td>
 
 <td>For changing the ownership of a file/directory</td>
 
@@ -68,7 +66,7 @@
 
 <tr>
 
-<td>`Chown user:group filename`</td>
+<td>Chown user:group filename</td>
 
 <td>change the user as well as group for a file or directory</td>
 
@@ -79,6 +77,7 @@
 </table>
 
 ## Basic Linux commands
+
 <table>
 
 <thead>
@@ -97,7 +96,7 @@
 
 <tr>
 
-<td>`ls`</td>
+<td>ls</td>
 
 <td>Lists all files and directories in the present working directory</td>
 
@@ -105,7 +104,7 @@
 
 <tr>
 
-<td>`ls-R`</td>
+<td>ls-R</td>
 
 <td>Lists files in sub-directories as well</td>
 
@@ -113,7 +112,7 @@
 
 <tr>
 
-<td>`ls-a`</td>
+<td>ls-a</td>
 
 <td>Lists hidden files as well</td>
 
@@ -121,7 +120,7 @@
 
 <tr>
 
-<td>`ls-al`</td>
+<td>ls-al</td>
 
 <td>Lists files and directories with detailed information like permissions,size, owner, etc.</td>
 
@@ -129,7 +128,7 @@
 
 <tr>
 
-<td>`cd or cd ~`</td>
+<td>cd or cd ~</td>
 
 <td>Navigate to HOME directory</td>
 
@@ -137,7 +136,7 @@
 
 <tr>
 
-<td>`cd ..`</td>
+<td>cd ..</td>
 
 <td>Move one level up</td>
 
@@ -145,7 +144,7 @@
 
 <tr>
 
-<td>`cd`</td>
+<td>cd</td>
 
 <td>To change to a particular directory</td>
 
@@ -153,7 +152,7 @@
 
 <tr>
 
-<td>`cd /`</td>
+<td>cd /</td>
 
 <td>Move to the root directory</td>
 
@@ -161,7 +160,7 @@
 
 <tr>
 
-<td>`cat > filename`</td>
+<td>cat > filename</td>
 
 <td>Creates a new file</td>
 
@@ -169,7 +168,7 @@
 
 <tr>
 
-<td>`cat filename`</td>
+<td>cat filename</td>
 
 <td>Displays the file content</td>
 
@@ -177,7 +176,7 @@
 
 <tr>
 
-<td>`cat file1 file2 > file3`</td>
+<td>cat file1 file2 > file3</td>
 
 <td>Joins two files (file1, file2) and stores the output in a new file (file3)</td>
 
@@ -185,7 +184,7 @@
 
 <tr>
 
-<td>`mv file "new file path"`</td>
+<td>mv file "new file path"</td>
 
 <td>Moves the files to the new location</td>
 
@@ -193,7 +192,7 @@
 
 <tr>
 
-<td>`mv filename new_file_name`</td>
+<td>mv filename new_file_name</td>
 
 <td>Renames the file to a new filename</td>
 
@@ -201,7 +200,7 @@
 
 <tr>
 
-<td>`sudo`</td>
+<td>sudo</td>
 
 <td>Allows regular users to run programs with the security privileges of the superuser or root</td>
 
@@ -209,7 +208,7 @@
 
 <tr>
 
-<td>`rm filename`</td>
+<td>rm filename</td>
 
 <td>Deletes a file</td>
 
@@ -217,7 +216,7 @@
 
 <tr>
 
-<td>`man`</td>
+<td>man</td>
 
 <td>Gives help information on a command</td>
 
@@ -225,7 +224,7 @@
 
 <tr>
 
-<td>`history`</td>
+<td>history</td>
 
 <td>Gives a list of all past commands typed in the current terminal session</td>
 
@@ -233,7 +232,7 @@
 
 <tr>
 
-<td>`clear`</td>
+<td>clear</td>
 
 <td>Clears the terminal</td>
 
@@ -241,7 +240,7 @@
 
 <tr>
 
-<td>`mkdir directoryname`</td>
+<td>mkdir directoryname</td>
 
 <td>Creates a new directory in the present working directory or a at the specified path</td>
 
@@ -249,7 +248,7 @@
 
 <tr>
 
-<td>`rmdir`</td>
+<td>rmdir</td>
 
 <td>Deletes a directory</td>
 
@@ -257,7 +256,7 @@
 
 <tr>
 
-<td>`mv`</td>
+<td>mv</td>
 
 <td>Renames a directory</td>
 
@@ -265,7 +264,7 @@
 
 <tr>
 
-<td>`pr -x`</td>
+<td>pr -x</td>
 
 <td>Divides the file into x columns</td>
 
@@ -273,7 +272,7 @@
 
 <tr>
 
-<td>`pr -h`</td>
+<td>pr -h</td>
 
 <td>Assigns a header to the file</td>
 
@@ -281,7 +280,7 @@
 
 <tr>
 
-<td>`pr -n`</td>
+<td>pr -n</td>
 
 <td>Denotes the file with Line Numbers</td>
 
@@ -289,7 +288,7 @@
 
 <tr>
 
-<td>`lp -nc , lpr c`</td>
+<td>lp -nc , lpr c</td>
 
 <td>Prints "c" copies of the File</td>
 
@@ -297,7 +296,7 @@
 
 <tr>
 
-<td>` lp-d lp-P`</td>
+<td> lp-d lp-P</td>
 
 <td>Specifies name of the printer</td>
 
@@ -305,7 +304,7 @@
 
 <tr>
 
-<td>`apt-get`</td>
+<td>apt-get</td>
 
 <td>Command used to install and update packages</td>
 
@@ -313,7 +312,7 @@
 
 <tr>
 
-<td>`mail -s 'subject' -c 'cc-address'` `-b 'bcc-address' 'to-address'`</td>
+<td>mail -s 'subject' -c 'cc-address' -b 'bcc-address' 'to-address'</td>
 
 <td>Command to send email</td>
 
@@ -321,7 +320,7 @@
 
 <tr>
 
-<td>`mail -s "Subject" to-address < Filename`</td>
+<td>mail -s "Subject" to-address < Filename</td>
 
 <td>Command to send email with attachment</td>
 
