@@ -76,7 +76,6 @@
 
 </table>
 <br />
-<br />
 
 ## Basic Linux commands
 
