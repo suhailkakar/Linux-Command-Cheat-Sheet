@@ -667,3 +667,8 @@
 </tbody>
 
 </table>
+
+<br />
+
+## VI Editing Commands
+
