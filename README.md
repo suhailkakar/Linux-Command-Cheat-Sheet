@@ -3,6 +3,7 @@
     <img width="200" height="auto" src="https://i.ibb.co/ss17KG0/c7b8113247fecd83bd9b5ed5bd3f34d5-removebg-preview.png" alt="Linux Logo" />
 </p>
    
+The Linux command is a utility of the Linux operating system. All basic and advanced tasks can be done by executing commands. The commands are executed on the Linux terminal.The terminal is a command-line interface to interact with the system, which is similar to the command prompt in the Windows OS.
 
 
 
